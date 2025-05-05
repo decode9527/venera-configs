@@ -3,7 +3,7 @@ class AiArtLookbookSource extends ComicSource {
     key = "aiartlookbook"
     version = "1.0.2"
     minAppVersion = "1.2.1"
-    url = "https://cdn.jsdelivr.net/gh/yourname/repo@main/sources/aiartlookbook.js"
+    url = "https://raw.githubusercontent.com/decode9527/venera-configs/refs/heads/main/aiartlookbook.js"
 
     static baseUrl = "https://aiartlookbook.com"
     headers = {}
